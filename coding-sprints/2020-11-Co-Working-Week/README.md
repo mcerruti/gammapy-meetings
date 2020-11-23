@@ -93,7 +93,7 @@ Presentations:
 8. Fabio Pintore, INAF/IASF Palermo, Italy ([fabiopintore](https://github.com/fabiopintore))
 9. Valentina Fioretti NAF OAS Bologna, Italy ([vfioretti](https://github.com/vfioretti))
 10. Fabio ACERO, CEA/Saclay, France ([facero](https://github.com/facero))
-11. Giovanni De Cesare INAF/OAS Bologna Italy ([giovixo](https://github.com/giovixo))
-12. Giulia Stratta INAF/OAS Bologna Italy ([gistratta](https://github.com/gistratta))
-13. Ambra Di Piano INAF/OAS Bologna Italy ([ambra-dipiano](https://github.com/ambra-dipiano))
-
+11. Giovanni De Cesare INAF/OAS Bologna, Italy ([giovixo](https://github.com/giovixo))
+12. Giulia Stratta INAF/OAS Bologna, Italy ([gistratta](https://github.com/gistratta))
+13. Ambra Di Piano INAF/OAS Bologna, Italy ([ambra-dipiano](https://github.com/ambra-dipiano))
+14. Matteo Cerruti ICC/UB Barcelona, Spain (https://github.com/mcerruti)
